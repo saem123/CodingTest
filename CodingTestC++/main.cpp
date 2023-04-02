@@ -5,8 +5,8 @@
 #include<vector>
 using namespace std;
 
-
-
+void baekjoon();
+void programers();
 BaekJoon bj;
 Programmers pro;
 int main()
@@ -21,10 +21,11 @@ int main()
 void baekjoon()
 {
 	
-	bj.셀프넘버_4673();
+	//bj.셀프넘버_4673();
 }
 
 void programers()
 {
-
+	//pro.Lv1_추억점수();
+	pro.Lv1_공원산책();
 }
