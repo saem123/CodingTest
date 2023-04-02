@@ -1,12 +1,30 @@
 #include "header.h"
+#include "baekjoon.h"
+#include "programmers.h"
 #include <iostream>
+#include<vector>
 using namespace std;
 
+
+
+BaekJoon bj;
+Programmers pro;
 int main()
 {
-	//===if===
-	//두수비교하기_1330();
-	
+	baekjoon();
+	programers();
 	return 0;
+
+}
+
+
+void baekjoon()
+{
+	
+	bj.셀프넘버_4673();
+}
+
+void programers()
+{
 
 }
