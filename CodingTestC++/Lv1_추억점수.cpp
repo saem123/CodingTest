@@ -11,6 +11,15 @@ void Programmers::Lv1_추억점수()
 	vector<string> name;
 	vector<int> yearning;
 	vector<vector<string>> photo;
+	for (int index = 0; index < 4; index++)
+	{
+		cout << "이름을 입력하세요" << endl;
+		string s;
+
+
+	}
+
+	solution(name, yearning, photo);
 
 }
 
