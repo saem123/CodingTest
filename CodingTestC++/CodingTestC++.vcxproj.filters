@@ -44,5 +44,8 @@
     <ClCompile Include="Lv1_공원산책.cpp">
       <Filter>소스 파일\Programmers</Filter>
     </ClCompile>
+    <ClCompile Include="Lv1_바탕화면정리.cpp">
+      <Filter>소스 파일\Programmers</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

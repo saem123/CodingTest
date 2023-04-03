@@ -27,5 +27,5 @@ void baekjoon()
 void programers()
 {
 	//pro.Lv1_추억점수();
-	pro.Lv1_공원산책();
+	//pro.Lv1_공원산책();
 }
