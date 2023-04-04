@@ -46,6 +46,7 @@ vector<int> solution(vector<string> wallpaper) {
 			}
 		}
 	}
+
 	vector<int> answer;
 	
 	answer.push_back(minY);
