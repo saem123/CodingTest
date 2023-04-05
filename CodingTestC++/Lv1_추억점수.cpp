@@ -59,6 +59,7 @@ vector<int> solution(vector<string> name, vector<int> yearning, vector<vector<st
 			{
 				value += valueMap[photo[i][j]];
 			}
+
 		}
 		answer.push_back(value);
 	}
