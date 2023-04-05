@@ -62,5 +62,6 @@ vector<int> solution(vector<string> name, vector<int> yearning, vector<vector<st
 		}
 		answer.push_back(value);
 	}
+
 	return answer;
 }
