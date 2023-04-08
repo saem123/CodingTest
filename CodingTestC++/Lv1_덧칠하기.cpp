@@ -27,6 +27,7 @@ int solution(int n, int m, int section[], size_t section_len) {
 		cur = section[i] + m;
 	}
 
+	//check
 
 	return answer;
 }
